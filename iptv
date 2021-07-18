@@ -1,4 +1,3 @@
-http://directtv1.xyz:80/Freddie/Freddie/172069
 #EXTINF:-1,IN | & FLIX HD
 http://directtv1.xyz:80/Freddie/Freddie/134860
 #EXTINF:-1,IN | & Pictures HD
@@ -67,6 +66,10 @@ http://directtv1.xyz:80/Freddie/Freddie/134850
 http://directtv1.xyz:80/Freddie/Freddie/49588
 #EXTINF:-1,IN | B4U MUSIC
 http://directtv1.xyz:80/Freddie/Freddie/134874
+#EXTINF:-1,IN | Baby TV HD
+http://directtv1.xyz:80/Freddie/Freddie/49587
+#EXTINF:-1,IN | Balle Balle HD
+http://directtv1.xyz:80/Freddie/Freddie/49668
 #EXTINF:-1,IN | BBC EART HD
 http://directtv1.xyz:80/Freddie/Freddie/49628
 #EXTINF:-1,IN | BBO HD
